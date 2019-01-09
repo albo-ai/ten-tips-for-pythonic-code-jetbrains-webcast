@@ -17,6 +17,7 @@ import sys
 
 DataPoint = collections.namedtuple("DataPoint", "id x y temp quality")
 
+testing
 
 def main():
     # #############################
